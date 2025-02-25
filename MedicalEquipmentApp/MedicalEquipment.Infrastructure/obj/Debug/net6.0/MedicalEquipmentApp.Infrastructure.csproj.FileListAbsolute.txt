@@ -1,0 +1,14 @@
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipment.Infrastructure\bin\Debug\net6.0\MedicalEquipmentApp.Infrastructure.deps.json
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipment.Infrastructure\bin\Debug\net6.0\MedicalEquipmentApp.Infrastructure.runtimeconfig.json
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipment.Infrastructure\bin\Debug\net6.0\MedicalEquipmentApp.Infrastructure.dll
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipment.Infrastructure\bin\Debug\net6.0\MedicalEquipmentApp.Infrastructure.pdb
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipment.Infrastructure\obj\Debug\net6.0\MedicalEquipmentApp.Infrastructure.csproj.AssemblyReference.cache
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipment.Infrastructure\obj\Debug\net6.0\MedicalEquipmentApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipment.Infrastructure\obj\Debug\net6.0\MedicalEquipmentApp.Infrastructure.AssemblyInfoInputs.cache
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipment.Infrastructure\obj\Debug\net6.0\MedicalEquipmentApp.Infrastructure.AssemblyInfo.cs
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipment.Infrastructure\obj\Debug\net6.0\MedicalEquipmentApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipment.Infrastructure\obj\Debug\net6.0\MedicalEquipmentApp.Infrastructure.dll
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipment.Infrastructure\obj\Debug\net6.0\refint\MedicalEquipmentApp.Infrastructure.dll
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipment.Infrastructure\obj\Debug\net6.0\MedicalEquipmentApp.Infrastructure.pdb
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipment.Infrastructure\obj\Debug\net6.0\MedicalEquipmentApp.Infrastructure.genruntimeconfig.cache
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipment.Infrastructure\obj\Debug\net6.0\ref\MedicalEquipmentApp.Infrastructure.dll

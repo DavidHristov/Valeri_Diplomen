@@ -1,0 +1,17 @@
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipmentApp.Core\bin\Debug\net6.0\MedicalEquipmentApp.Core.deps.json
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipmentApp.Core\bin\Debug\net6.0\MedicalEquipmentApp.Core.dll
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipmentApp.Core\bin\Debug\net6.0\MedicalEquipmentApp.Core.pdb
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipmentApp.Core\bin\Debug\net6.0\MedicalEquipmentApp.Infrastructure.dll
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipmentApp.Core\bin\Debug\net6.0\MedicalEquipmentApp.Infrastructure.pdb
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipmentApp.Core\obj\Debug\net6.0\MedicalEquipmentApp.Core.csproj.AssemblyReference.cache
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipmentApp.Core\obj\Debug\net6.0\MedicalEquipmentApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipmentApp.Core\obj\Debug\net6.0\MedicalEquipmentApp.Core.AssemblyInfoInputs.cache
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipmentApp.Core\obj\Debug\net6.0\MedicalEquipmentApp.Core.AssemblyInfo.cs
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipmentApp.Core\obj\Debug\net6.0\MedicalEquipmentApp.Core.csproj.CoreCompileInputs.cache
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipmentApp.Core\obj\Debug\net6.0\MedicalEquipmentApp.Core.csproj.CopyComplete
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipmentApp.Core\obj\Debug\net6.0\MedicalEquipmentApp.Core.dll
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipmentApp.Core\obj\Debug\net6.0\refint\MedicalEquipmentApp.Core.dll
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipmentApp.Core\obj\Debug\net6.0\MedicalEquipmentApp.Core.pdb
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipmentApp.Core\obj\Debug\net6.0\ref\MedicalEquipmentApp.Core.dll
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipmentApp.Core\bin\Debug\net6.0\MedicalEquipmentApp.Core.runtimeconfig.json
+D:\Visual studio proekti\Diplomen_Project-main\MedicalEquipmentApp\MedicalEquipmentApp.Core\obj\Debug\net6.0\MedicalEquipmentApp.Core.genruntimeconfig.cache
